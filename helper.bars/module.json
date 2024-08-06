@@ -1,0 +1,15 @@
+{
+    "main": {
+        "name": "HelperBars",
+        "tagline": "Create various types of bars for your game.",
+        "version": "1.0.0",
+        "icon": "ctmod",
+        "authors": [{
+            "name": "Ulises Freitas",
+            "mail": "ulises.freitas@gmail.com"
+        }],
+        "categories": [
+            "media"
+        ]
+    }
+}
